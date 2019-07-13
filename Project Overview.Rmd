@@ -1,0 +1,28 @@
+
+# The Problem
+
+I like to examine the rates of cancer screening test among African Americans. 
+
+* Despite the importance of early cancer diagnosis for the prevention and treatment, it is known that African Americans do not take the cancer screening test regularilly compared with other race groups.
+*Several factors such as mistrust of healthcare provider, and accessibility issues are addressed as a possible factors detering African American's uptake of early cancer screening.
+*It is understudied why African Americans do not take the early cancer screening. 
+
+***
+# The Client
+
+My target clients are African American males. 
+
+* The incidence and mortality of the prostate cancer among African Americans are far higher than other groups. 
+* If we can examine what barriers prevent many African Americans from taking a cancer screening test, and help African Americans reduce their mortality rates from cancer through early intervention from cancer screening test. 
+
+## Data
+
+I’ve not decided which data I can use for this project. I hope that I can find the national data which contains information about cancer screening test. If I can’t find any national data available, I will use the data from my research project with a sample size of 300 African American men. 
+
+# Outline
+
+* I will Obtain the national data or the data from my project about African American men's cancer screening test. 
+* First, I will examine the rates of cancer screening tests among study participants. 
+* Second, I will examine the correlation between uptake of cancer screening test and socioeconomic factors, and some health behaviors. 
+*Finally, using multivariate data analysis, I will examine which socioeconomic factors and health behaviors can predict the uptake of cancer screening test among African American males. 
+
